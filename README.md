@@ -1,7 +1,7 @@
 
 ### Oie devs 👋
 
-Sou Welligton Murito, apaixonado por tecnologia, gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Sou Thaís Barbosa , apaixonado por tecnologia, gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -30,18 +30,18 @@ Sou Welligton Murito, apaixonado por tecnologia, gosto de criar ótimos software
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/wmurito">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wMuriTTo&theme=dracula&hide_langs_below=1" />
+<a href="https://github.com/thaizinhaba">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaizinhaba&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/wmurito">
+<a href="https://github.com/thaizinhaba">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wMuriTTo&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
-[twitter]: https://twitter.com/_murito
-[instagram]: https://www.instagram.com/wmurito
-[linkedin]: https://www.linkedin.com/in/wellington-murito-aba51760/
+[twitter]: https://twitter.com/_thaizinhaba
+[instagram]: https://www.instagram.com/thaizinhaba
+[linkedin]: https://www.linkedin.com/in/thaizinhaba-aba51760/
 <br>
 
 #### Rede Sociais!
