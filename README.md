@@ -1,7 +1,7 @@
 
 ### Oie devs 👋
 
-Sou Thaís Barbosa , apaixonada por tecnologia, gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Sou Thaís Barbosa , estou sempre em busca de aprendizado e conhecimento . Atualmente cursando Programação Front-end no senai  , sou servidora pública municipal mas minha graduação é Sistemas de Informação ! 
 
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
