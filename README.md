@@ -41,7 +41,7 @@ Sou Thaís Barbosa , estou sempre em busca de aprendizado e conhecimento . Atual
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/_thaizinhaba
 [instagram]: https://www.instagram.com/thaizinhaba
-[linkedin]: https://www.linkedin.com/in/thaizinhaba-aba51760/
+[linkedin]: http://www.linkedin.com/in/thaís-barbosa-349b0039
 <br>
 
 #### Rede Sociais!
