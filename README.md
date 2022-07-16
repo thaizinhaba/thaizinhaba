@@ -17,7 +17,7 @@ Sou Thaís Barbosa , estou sempre em busca de aprendizado e conhecimento . Atual
 
 [twitter]: https://twitter.com/thaizinhaba
 [instagram]: https://www.instagram.com/thaizinhaba
-[linkedin]: http://www.linkedin.com/in/thaizinhaba/
+[linkedin]: https://www.linkedin.com/in/thaizinhaba/
 <br>
 
 #### Rede Sociais!
